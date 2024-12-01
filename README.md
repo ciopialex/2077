@@ -1,8 +1,6 @@
 # 2K7EVENTY7
 # ⚔️ 2D Turn-Based RPG Battle Game
 
-Play the game here : ( https://ciopialex.github.io/2077/ ) this is a link hosted by GitHub 
-
 Welcome to my **2D Turn-Based RPG Battle Game**! This project is a simple, tactical RPG-style battle system with two player-controlled levels, where players face off against AI-controlled enemies in a turn-based combat sequence. The game includes a range of abilities, special moves, and effects to enhance strategy and keep the gameplay engaging. Built in Unity, this game uses C# scripts to manage everything from animations and sound to battle logic.
 
 ---
